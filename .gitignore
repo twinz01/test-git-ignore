@@ -1,0 +1,8 @@
+# Untuk file
+note.txt
+
+# Untuk folder
+data/
+
+# Untuk semua dengan type yang dipilih
+*.pdf
